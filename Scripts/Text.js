@@ -156,22 +156,36 @@ class TextCache {
 	 */
 	translate(lines) {
 		this.language = TranslationLanguage;
-		const lang = (TranslationLanguage || "").trim().toUpperCase();
+		let lang = (TranslationLanguage || "").trim().toUpperCase();
 		if (!lang || lang === "EN") return Promise.resolve(lines);
-
-		const translationPath = this.path.replace(/\/([^/]+)\.csv$/, `/$1_${lang}.txt`);
+		let translationPath = '';
+		if (['ZHTW'].indexOf(lang) === -1) {
+			translationPath = this.path.replace(/\/([^/]+)\.csv$/, `/$1_${lang}.txt`);
+		} else {
+			translationPath = this.path.replace(/\/([^/]+)\.csv$/, `/$1_${lang}.csv`);
+		}
 		if (!TranslationAvailable(translationPath)) {
 			return Promise.resolve(lines);
 		}
-
 		if (TranslationCache[translationPath]) {
 			return Promise.resolve(this.buildTranslations(lines, TranslationCache[translationPath]));
 		} else {
 			return new Promise((resolve) => {
 				CommonGet(translationPath, (xhr) => {
 					if (xhr.status === 200) {
-						TranslationCache[translationPath] = TranslationParseTXT(xhr.responseText);
-						return resolve(this.buildTranslations(lines, TranslationCache[translationPath]));
+						if (translationPath.split('.')[1].toLowerCase() == 'csv') {
+							let transLines = CommonParseCSV(xhr.responseText);
+							lines.forEach((item, index, array) => {
+								let idx_text = transLines.map(line => line[0]).indexOf(item[0]);
+								if (idx_text !== -1) {
+									item[1] = transLines[idx_text][1];
+								}
+							})
+							return resolve(lines);
+						} else {
+							TranslationCache[translationPath] = TranslationParseTXT(xhr.responseText);
+							return resolve(this.buildTranslations(lines, TranslationCache[translationPath]));
+						}
 					}
 					return resolve(lines);
 				});

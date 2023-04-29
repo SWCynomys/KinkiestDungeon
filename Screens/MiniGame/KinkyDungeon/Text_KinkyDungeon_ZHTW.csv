@@ -1,7 +1,7 @@
-KinkyDungeonCredits,Credits
+﻿KinkyDungeonCredits,製作群
 KinkyDungeonPatrons,Patrons
-KinkyDungeonDeviantart,News and Updates
-KinkyDungeonPatreon,Support @ Patreon
+KinkyDungeonDeviantart,新聞和更新
+KinkyDungeonPatreon,至Patreon贊助
 KinkyDungeonPatronsList0,"Thank you to the following awesome people for supporting me at patreon.com/ada18980|cyberjoel|Samantha Lear|Kara|The-Fisher-King|Laioken|Finn|selly-grim|Dex♪|Churro|Gamefan|Shogo|X27|Blox|Slacker|Nikos S.|Flame|Alexis Octavia|Dmitri S.|Noxgarm|Siegfried K.|Hellgete"
 KinkyDungeonPatronsList1,"|nuzzles|Rest|LoudestQuietPerson|Violet EverGardner|BoopleDoopleson|Dazman1234|WATA|linlizheng|Mechio|Vikingberserker|PWMRM|devan|LukeB|atetete|Aussie895|0xA4C1B842|Rika|Physicsphail|Loony|Jeremy P.|ItsYahboi9"
 KinkyDungeonPatronsList2,"|AlexisTheFlame|Chen Yu|Sinohisaki|nnm711|Ron lsrp|Miro|Anthony R.|John T.|Geng114514|塵狐|kamil|Iaysakuya|tsang|Somprad|Thatguu|damit damit|Victor|Hjake2|anton A.|Dakra|CuvyanTaylor|"
@@ -14,14 +14,15 @@ KinkyDungeonNext,Next
 KinkyDungeonCreditsList0,"Music: kocaeli|Bound enemy graphics: Song|CN Translation: Alexthymia|KR, JP Translation: Phantasm|Code Contributors: Ellie, Demopans, Aelie|Audio:|Potion drink - Jamius|Click - StrikeWhistler - Modified|StoneDoor_Close - AudioTorpedo - Modified|Footstep - Fission9 - Modified|FireSpell - Julien Matthey|LightSwing - qubodup|Heavy Swing - orangesheepdog|Miss - Brsjak - Modified|Clap - DWSD - Modified|'Door, Front, Closing, A.wav' by InspectorJ (www.jshaw.co.uk) of Freesound.org|'Door, Front, Opening, A.wav' by InspectorJ (www.jshaw.co.uk) of Freesound.org|Chest Open - spookymodem - Modified|Unlock - BeezleFM|Unbuckle - danhelbling|Scissors - qubodup|Rummage - adcbicycle|Fairy Dust - jacksonacademyashmore|Metal Smash - gristi"
 KinkyDungeonCreditsList1,"Door locked.wav - mitchanary - Modified|Coins.wav - Saviraz|Opening the sarcophagus - Breviceps - Modified|Knife Sharpen - Anthousai|Paper Sounds - Bash360 - Modified|Freeze Powerup - JustInvoke - Modified|puddle - patchytherat - Modified|grab 3 - ihitokage - Modified|Gunfire - qubodup - Modified|Brass Falling - movingplaid - Modified|Energy Weapon Laser - rkkaleikau - Modified|Electricity - deleted_user_7146007 - Modified|Dragging a chain out of a sink - Hitrison - Modified|Hihat 7 - TheCoolManARM2 - Modified|Ambientsoundapp - Lightning Storm.wav - Modified|kev_durr - Arc Welding.wav - Modified|32cheeseman32 - SwordDraw01|||ARTISTS AND INSPIRATION|Hotel01 - https://www.pixiv.net/en/users/5944252 - Draws awesome wolfgirls|spark utamaro - For the idea of sentient vibrators"
 
-Language,Language
-EN,English
-CN,Chinese
-KR,Korean
-JP,Japanese
-ES,Spanish
+Language,語言
+EN,英語
+CN,簡體中文
+KR,韓語
+JP,日語
+ES,西班牙語
+TW,繁體中文
 KDMods,Mods
-KDModsLoaded,Mods Loaded.
+KDModsLoaded,:"讀取 Mods"
 
 RestartNeededEN,"Restart required!"
 RestartNeededCN,"需要重启！"
@@ -31,49 +32,49 @@ RestartNeededES,"¡Reinicio!"
 RestartNeededZHTW,"請重啟遊戲！"
 
 KinkyDungeon,"Kinky Dungeon v4.22"
-Intro,"You are an adventurer descending into an ancient underground city of magic."
-Intro2,"Beneath its depths lies the Mistress' Staff, an artifact of untold power."
-Intro3,"Will you prevail against forces unknown, or succumb to its dark secrets?"
-Intro4,"(This game does not contain spiders or any carnivorous creatures/plants)"
+Intro,"HEY!妳是一位進入古老的地底魔法都市的冒險家。"
+Intro2,"女王權杖─法力無邊的神器就躺在那深處。"
+Intro3,"妳會戰勝未知的力量，還是屈服於期的黑暗秘密呢？"
+Intro4,"(本遊戲不含蜘蛛或其他吃人的生物/植物)"
 Intro4BC,"(Check out the latest standalone version at the News and Updates link below!)"
-KDToggleSound,Enable Sound
-KDToggleDrool,Enable Drool/Tears
+KDToggleSound,啟用 音效
+KDToggleDrool,啟用 流口水/流淚
 KDToggleDrawArmor,Draw Armor
-KDToggleMusic,Enable Music
+KDToggleMusic,啟用 音樂
 KDToggleTurnCounter,Turn Counter
 KDToggleStunFlash,Flash Screen on Stun
 KDToggleArousalHearts,Advanced Distraction VFX
-KDToggleVibeHearts,Advanced Toy VFX
-KDToggleShowNPCStatuses,Show NPC Status
-KDToggleFancyWalls,Advanced Fog of War
+KDToggleVibeHearts,進階玩具特效
+KDToggleShowNPCStatuses,顯示NPC狀態
+KDToggleFancyWalls,進階戰場迷霧
 KDToggleIntenseOrgasm,Intense 'Let Go' VFX
-KDToggleVibeSounds,Enable Toy SFX
-KDToggleFullscreen,Enable Fullscreen
-KDToggleGraphicsQuality,High Quality Animations
+KDToggleVibeSounds,啟用 玩具特效
+KDToggleFullscreen,啟用 全螢幕
+KDToggleGraphicsQuality,高品質動畫
 KinkyDungeonFastWait,Wait Quickly
 
-KDHelpless,Helpless!
-KDMissed,Evaded!
+KDHelpless,無助！
+KDMissed,迴避！
 KDBlocked,Blocked!
 KDBlockedRestraint,Blocked restraint!
 
-KDWallBump,You bump into a wall.
+KDWallBump,妳撞到一扇牆.
 
-KDVibeVolume,Toy Volume:
-KDMusicVolume,Music Volume:
-KDSfxVolume,SFX Volume:
-KDAnimSpeed,Animation Time:
+KDVibeVolume,玩具 音量:
+KDMusicVolume,音樂 音量:
+KDSfxVolume,音效 音量:
+KDAnimSpeed,動畫 時間:
 
-KinkyDungeonJourney,"Select a journey. This will determine the ordering of game areas."
-KinkyDungeonJourney0,"Standard: The intended experience"
-KinkyDungeonJourney1,"Random: A chaotic journey"
-KinkyDungeonJourney2,"Harder: A more difficult journey"
+KinkyDungeonJourney,"選擇模式。這將影響遊戲區域的生成順序。"
+KinkyDungeonJourney0,"標準: 可預期的經歷"
+KinkyDungeonJourney1,"隨機: 一場未知的旅程"
+KinkyDungeonJourney2,"更難: 一場更加困難的旅程"
 
-KinkyDungeonStats,"Select perks to start with."
-KinkyDungeonStats2,"Having 10+ spare points will trigger Hard Mode, granting unique loot."
-KDHardMode," (HARD MODE ENABLED)"
-KinkyDungeonStartGameAdv,"Advanced start (choose perks)"
-KinkyDungeonStartGameQuick,"Confirm and start playing!"
+KinkyDungeonStats,"選擇開場天賦"
+KinkyDungeonStats2,"當可用積分10+會開啟困難模式，並提供獨特的戰利品。"
+KDHardMode," (困難模式已啟用)"
+KinkyDungeonStartGameAdv,"進階開場 (選擇天賦)"
+KinkyDungeonStartGameQuick,"確定並開始遊玩！"
 
 KinkyDungeonStatCost,"Point Cost: AMOUNT"
 KinkyDungeonStatPoints,"Points Available: AMOUNT"
@@ -251,9 +252,9 @@ KinkyDungeonStatDescMagicHands,"Enemies can add restraints underneath existing r
 
 KinkyDungeonStatStartCyberDoll,"Cyber Doll"
 KinkyDungeonStatDescStartCyberDoll,"Start in Cyber restraints."
-KinkyDungeonStatFuukaCollar,"Fuuka's Pet"
+KinkyDungeonStatFuukaCollar,"Fuuka 的寵物"
 KinkyDungeonStatDescFuukaCollar,"Start with Fuuka's collar and a few restraints."
-KinkyDungeonStatCommonFuuka,"Fuuka Fan Club"
+KinkyDungeonStatCommonFuuka,"Fuuka 粉絲俱樂部"
 KinkyDungeonStatDescCommonFuuka,"All humanoids that can bind you also apply Fuuka's special restraints."
 KinkyDungeonStatCommonCyber,"Dollmaker's Minions"
 KinkyDungeonStatDescCommonCyber,"All humanoids that can bind you also apply Cyber Doll restraints."
@@ -401,14 +402,14 @@ KinkyDungeonStatTapeOptout,"Less Tape"
 KinkyDungeonStatDescTapeOptout,"Fewer tape-related enemies will appear, although this does not remove tape entirely."
 
 
-KinkyDungeonStatMC_Trainee,"Trainee"
+KinkyDungeonStatMC_Trainee,"學徒"
 KinkyDungeonStatDescMC_Trainee,"Your training has given you access to the spells of the Trainee class. (Aroused mode only)"
-KinkyDungeonStatMC_Fighter,"Warrior"
+KinkyDungeonStatMC_Fighter,"戰士"
 KinkyDungeonStatDescMC_Fighter,"Your training has given you access to the spells of the Warrior class."
 KinkyDungeonStatMC_Rogue,"Rogue"
 KinkyDungeonStatDescMC_Rogue,"Your training has given you access to the spells of the Rogue class."
-KinkyDungeonStatMC_Mage,"Wizard"
-KinkyDungeonStatDescMC_Mage,"Your training has given you access to the spells of the Wizard class."
+KinkyDungeonStatMC_Mage,"巫師"
+KinkyDungeonStatDescMC_Mage,"Your training has given you access to the spells of the 巫師 class."
 
 
 KinkyDungeonStatPanic,"Panic!!!"
@@ -613,12 +614,12 @@ KinkyDungeonDifficulty1,"Roguelike: No save codes, only autosave"
 KinkyDungeonDifficulty3,"Exciting: Orbs give random spells"
 KinkyDungeonDifficulty2,"Kinky: No save codes, orbs give random spells, start with very little"
 
-KinkyDungeonLog,Log
+KinkyDungeonLog,歷程
 
-KinkyDungeonDressPlayer,"Change Outfit"
-KinkyDungeonDressPlayerReset,"Reset Outfit"
-KinkyDungeonDressPlayerImport,"Code"
-KinkyDungeonConfirm,Confirm Reset?
+KinkyDungeonDressPlayer,"改變服裝"
+KinkyDungeonDressPlayerReset,"重設服裝"
+KinkyDungeonDressPlayerImport,"代碼"
+KinkyDungeonConfirm,確定要重設?
 
 KinkyDungeonSaveIntro0,"(Copy the code above and save it on your computer to load later)"
 KinkyDungeonSaveIntro,"You come across a black monolith with its face inscribed in runes."
@@ -627,18 +628,18 @@ KinkyDungeonSaveIntro3,"They may still prove useful to future adventurers should
 KinkyDungeonSaveIntro4,"(Your game has been saved automatically, but you can save the code for later)"
 
 KinkyDungeonGameSave,""
-KinkyDungeonGameContinue,"Continue..."
+KinkyDungeonGameContinue,"繼續..."
 
-KinkyDungeonRestart,"Menu"
+KinkyDungeonRestart,"選單"
 KinkyDungeonRestartConfirm,""
-KinkyDungeonRestartWait,"I will simply wait to see what happens."
-KinkyDungeonRestartQuitNoErase,"Save my current progress."
-KinkyDungeonRestartYes,"Give up & delete save"
-KinkyDungeonRestartYesConfirm,"Yes, delete my save file!"
-KinkyDungeonRestartCapture,"Actually, I will let the enemy capture me instead."
-KinkyDungeonRestartCaptureConfirm,"Yes, jail me!"
-KinkyDungeonRestartNo,"No, I wish to press on"
-KinkyDungeonCheckPerks,"See Perks"
+KinkyDungeonRestartWait,"我將等著看發生什麼事。"
+KinkyDungeonRestartQuitNoErase,"儲存我目前的進度。"
+KinkyDungeonRestartYes,"放棄並刪除存檔"
+KinkyDungeonRestartYesConfirm,"是的，刪除我的存檔！"
+KinkyDungeonRestartCapture,"實際上，我要讓敵人抓住我。"
+KinkyDungeonRestartCaptureConfirm,"是的，把我關起來！"
+KinkyDungeonRestartNo,"不，我希望繼續。"
+KinkyDungeonCheckPerks,"查看天賦"
 
 KinkyDungeonChestFaction,This chest belongs to the FACTION
 
@@ -685,16 +686,16 @@ KinkyDungeonPlayWithSelf,"Play with yourself"
 KinkyDungeonTryOrgasm,"Let go..."
 
 KDLetGo,"Let go..."
-KDPlay,"Play with yourself"
-KDSleep,"Go to sleep"
-KDHelp,"Make noise!"
-KDWait,"Wait until interrupted"
-KDAutoStruggle,"Auto-struggle"
-KDAutoPath,"Auto-path"
-KDSwitchWeapon,"Quick-Swap Weapon"
-KDInspect,"Inspect"
-KDPass,Pass NPCs
-KDDoor,Close a Door
+KDPlay,"自慰"
+KDSleep,"去睡覺"
+KDHelp,"製造噪音!"
+KDWait,"等待，直到被干擾"
+KDAutoStruggle,"自動掙脫"
+KDAutoPath,"自動尋路"
+KDSwitchWeapon,"快速切換武器"
+KDInspect,"調查"
+KDPass,路過NPCs
+KDDoor,關門
 KDSprint,Sprint/Hop
 
 KinkyDungeonChangeDistraction0,"Ahh!"
@@ -717,28 +718,28 @@ WaitExhaustionAroused,"You wait to regain your composure, panting with frustrati
 WaitExhaustionArousedHeavy,"You wait to regain your composure, shaking with frustration."
 WaitSpellExhaustion,"You are exhausted from spellcasting."
 
-KinkyDungeonStaminaWarningMed,"You are feeling tired."
-KinkyDungeonStaminaWarningLow,"You feel exhausted..."
-KinkyDungeonStaminaWarningNone,"You feel like you are going to pass out..."
+KinkyDungeonStaminaWarningMed,"妳感到疲累。"
+KinkyDungeonStaminaWarningLow,"妳覺得精疲力盡..."
+KinkyDungeonStaminaWarningNone,"妳覺得快要暈倒了..."
 
-GameStart,Start New Game
-KinkyDungeonNewGamePlus,New Game+
-GameContinue,Continue Last Save
-LoadGame,Load From Code
-LoadOutfit,Save Outfit (overwrites!)
-GameReturnToMenu,Save Keybindings
-GameReturnToMenu2,Cancel Changes
-GameReturnToMenuFromOptions,Return
-GameConfigKeys,Keybindings
-GameToggles,Game Options
+GameStart,"開始新遊戲"
+KinkyDungeonNewGamePlus,"開始新遊戲+"
+GameContinue,"繼續上次的存檔"
+LoadGame,"從代碼讀取"
+LoadOutfit,"保存外觀(覆寫！)"
+GameReturnToMenu,保存按鍵設定
+GameReturnToMenu2,放棄變更
+GameReturnToMenuFromOptions,返回
+GameConfigKeys,按鍵設定
+GameToggles,遊戲選項
 
-KinkyDungeonLoadConfirm,"Load from code"
-KinkyDungeonLoadBack,"Back to main menu"
-KinkyDungeonLoadMod,"Load Mod"
-KinkyDungeonDeleteMod,"Delete Mod"
+KinkyDungeonLoadConfirm,"從代碼讀取"
+KinkyDungeonLoadBack,"回主選單"
+KinkyDungeonLoadMod,"讀取Mod"
+KinkyDungeonDeleteMod,"刪除Mod"
 KinkyDungeonClearAll,"Clear Perks"
 KinkyDungeonConfig,"Config "
-KinkyDungeonCancel,"Cancel"
+KinkyDungeonCancel,"取消"
 KinkyDungeonFilter,"Filter"
 
 KinkyDungeonLoadModWarning1,"DANGER: Loading a mod will execute ARBITRARY CODE on your machine."
@@ -768,30 +769,30 @@ KinkyDungeonKeyWait,Wait
 KinkyDungeonKeySkip,Cancel/Back
 KinkyDungeonKeyEnter,Enter
 
-KinkyDungeonKeyMsgLog,Message Log
-KinkyDungeonKeyDoor,Close Door
+KinkyDungeonKeyMsgLog,訊息歷程
+KinkyDungeonKeyDoor,關門
 KinkyDungeonKeyPass,Pass thru allies
-KinkyDungeonKeyAStruggle,Auto-Struggle
+KinkyDungeonKeyAStruggle,自動掙脫
 KinkyDungeonKeyAPathfind,Auto-Pathfind
-KinkyDungeonKeySprint,Sprint/Hop
-KinkyDungeonKeyInspect,Inspect
+KinkyDungeonKeySprint,衝刺/跳躍
+KinkyDungeonKeyInspect,調查
 
-KinkyDungeonKeyQInventory,Quick Inventory
-KinkyDungeonKeyInventory,Inventory
-KinkyDungeonKeyReputation,Reputation
-KinkyDungeonKeyMagic,Spell List
-KinkyDungeonKeyLog,Logbook
+KinkyDungeonKeyQInventory,快速 道具欄
+KinkyDungeonKeyInventory,道具欄
+KinkyDungeonKeyReputation,名聲
+KinkyDungeonKeyMagic,咒語清單
+KinkyDungeonKeyLog,日誌
 
 KinkyDungeonCurrentPress,"Current Key Pressed"
 KinkyDungeonCurrentPressInfo,"Press a key, then press a button to set that key"
 
-CurrentLevel,"Floor FLOORNUMBER: DUNGEONNAME"
+CurrentLevel,"第 FLOORNUMBER 層: DUNGEONNAME"
 CurrentGold,""
-CurrentLockpicks,"Lockpicks: "
-CurrentKeyRed,"Keys: "
-CurrentKeyBlue,"Magic Keys: "
-CurrentKnife,"Knife: "
-CurrentKnifeMagic,"Mag. Knife: "
+CurrentLockpicks,"開鎖器: "
+CurrentKeyRed,"鑰匙: "
+CurrentKeyBlue,"魔法鑰匙: "
+CurrentKnife,"小刀: "
+CurrentKnifeMagic,"魔法刀: "
 
 ClimbDown,"You climb down the stairs. The passage closes behind you."
 ClimbDownFail,"You can't climb down until you get out of this leash..."
@@ -799,22 +800,22 @@ ClimbDownShortcut,"You climb down and find yourself in a strange new place."
 
 KDNGPlus," plus XXX"
 
-DungeonNamegrv,Graveyard
-DungeonNamecat,Catacombs
-DungeonNamejng,Underground Jungle
-DungeonNametmp,Lost Temple
-DungeonNamebel,The Bellows
-DungeonNamelab,Rundown Laboratory
-DungeonNamefor,Forgotten Garden
-DungeonNameice,Kingdom of Ice
+DungeonNamegrv,"墳場"
+DungeonNamecat,"墓穴"
+DungeonNamejng,"地下叢林"
+DungeonNametmp,"失落的神廟"
+DungeonNamebel,"鐘樓(The Bellows)"
+DungeonNamelab,"殘破的實驗室(Rundown Laboratory)"
+DungeonNamefor,"被遺忘的花園(Forgotten Garden)"
+DungeonNameice,"冰之國度(Kingdom of Ice)"
 DungeonName8,
 DungeonName9,
 
 DungeonNamemis,The Mansion
 
-DungeonNametmb,Ancient Tombs
-DungeonNamelib,Magic Library
-DungeonNamecry,Crystal Cave
+DungeonNametmb,"古墓(Ancient Tombs)"
+DungeonNamelib,"魔法圖書館(Magic Library)"
+DungeonNamecry,"水晶洞(Crystal Cave)"
 DungeonNameore,Orrery
 DungeonNametrn,Training Center
 DungeonNamerub,Rubber Facility
@@ -877,50 +878,50 @@ LootPotionStamina,"You find a green potion, glowing warm with energy."
 LootPotionFrigid,"You find a snow-like potion that's cold to the touch."
 LootPotionsMedley,"You find a medley of potions."
 
-KinkyDungeonRarity,"Rarity: "
-KinkyDungeonRarity0,Lesser
-KinkyDungeonRarity1,Common
-KinkyDungeonRarity2,Uncommon
-KinkyDungeonRarity3,Rare
-KinkyDungeonRarity4,Very Rare
-KinkyDungeonRarity5,Epic
-KinkyDungeonRarity6,Legendary
-KinkyDungeonRarity7,Supreme
-KinkyDungeonRarity8,Mythic
-KinkyDungeonRarity9,Angelic
-KinkyDungeonRarity10,Divine
+KinkyDungeonRarity,"稀有度: "
+KinkyDungeonRarity0,次級
+KinkyDungeonRarity1,普通
+KinkyDungeonRarity2,罕見
+KinkyDungeonRarity3,稀有
+KinkyDungeonRarity4,很稀有
+KinkyDungeonRarity5,史詩
+KinkyDungeonRarity6,傳奇
+KinkyDungeonRarity7,極上
+KinkyDungeonRarity8,神話
+KinkyDungeonRarity9,天國
+KinkyDungeonRarity10,神聖
 
-KinkyDungeonConsumableQuantity,Quantity:
-KinkyDungeonConsume,Use Item (Consumes 1)
+KinkyDungeonConsumableQuantity,數量:
+KinkyDungeonConsume,使用物品 (消耗 1)
 
 KinkyDungeonInventoryItemnull,way of the fist
-KinkyDungeonInventoryItemPick,Lockpick
-KinkyDungeonInventoryItemKeyring,Exit Keys
+KinkyDungeonInventoryItemPick,開鎖器
+KinkyDungeonInventoryItemKeyring,離開鑰匙
 
-KinkyDungeonInventoryItemDefault,Wizard's Outfit
-KinkyDungeonInventoryItemDefaultDesc,Your favorite outfit for adventuring.
-KinkyDungeonInventoryItemDefaultDesc2,Your original outfit. No bonuses, no penalties.
+KinkyDungeonInventoryItemDefault,巫師裝
+KinkyDungeonInventoryItemDefaultDesc,妳最喜歡的冒險服裝。
+KinkyDungeonInventoryItemDefaultDesc2,妳原本的服裝。沒有獎勵，也沒有懲罰。
 
-KinkyDungeonInventoryItemJailUniform,Jail Uniform
-KinkyDungeonInventoryItemJailUniformDesc,The prisoners are kept in revealing outfits to keep them from hiding things.
-KinkyDungeonInventoryItemJailUniformDesc2,"A prisoner's 'outfit'. No bonuses, no penalties."
+KinkyDungeonInventoryItemJailUniform,監獄服
+KinkyDungeonInventoryItemJailUniformDesc,犯人穿著曝露的服裝，以防止他們隱藏東西。
+KinkyDungeonInventoryItemJailUniformDesc2,"犯人的「服裝」。沒有獎勵，也沒有懲罰。"
 
 
-KinkyDungeonInventoryItemWolfgirl,Wolfgirl Suit
-KinkyDungeonInventoryItemWolfgirlDesc,An advanced suit designed for sport, breathable and also warm.
-KinkyDungeonInventoryItemWolfgirlDesc2,"No bonuses, no penalties."
+KinkyDungeonInventoryItemWolfgirl,狼女裝
+KinkyDungeonInventoryItemWolfgirlDesc,為運動而設計，透氣又保暖的套裝。
+KinkyDungeonInventoryItemWolfgirlDesc2,"沒有獎勵，也沒有懲罰。"
 
-KinkyDungeonInventoryItemMaid,Maid Uniform
-KinkyDungeonInventoryItemMaidDesc,An elegant dress meant to denote a maid's status.
-KinkyDungeonInventoryItemMaidDesc2,"Massively increases accuracy against slime mold."
+KinkyDungeonInventoryItemMaid,女僕裝
+KinkyDungeonInventoryItemMaidDesc,用於表示女僕身分的優雅裙子。
+KinkyDungeonInventoryItemMaidDesc2,"大幅提高對黏菌的抗命中率。"
 
-KinkyDungeonInventoryItemMaidUniform,Maid Uniform
-KinkyDungeonInventoryItemMaidUniformDesc,An elegant dress meant to denote a maid's status.
-KinkyDungeonInventoryItemMaidUniformDesc2,"Massively increases accuracy against slime mold."
+KinkyDungeonInventoryItemMaidUniform,女僕裝
+KinkyDungeonInventoryItemMaidUniformDesc,用於表示女僕身分的優雅裙子
+KinkyDungeonInventoryItemMaidUniformDesc2,"大幅提高對黏菌的抗命中率。"
 
-KinkyDungeonInventoryItemDragon,Prisoner Uniform
-KinkyDungeonInventoryItemDragonDesc,The uniform of choice for girls captured by the dragonhearts.
-KinkyDungeonInventoryItemDragonDesc2,"Designed to make it hard to conceal weapons. No bonuses, no penalties."
+KinkyDungeonInventoryItemDragon,囚人服
+KinkyDungeonInventoryItemDragonDesc,被龍裔抓到的女孩的首選制服。
+KinkyDungeonInventoryItemDragonDesc2,"設計的難以隱藏武器。沒有獎勵，也沒有懲罰。"
 
 KinkyDungeonInventoryItemBlueSuitPrison,Scientific Uniform
 KinkyDungeonInventoryItemBlueSuitPrisonDesc,An outfit designed to leave little to the imagination.
@@ -942,7 +943,7 @@ KinkyDungeonInventoryItemObsidian,Shadow Latex Dress
 KinkyDungeonInventoryItemObsidianDesc,"A minidress made from shadow latex, a favorite of otherwordly patrons."
 KinkyDungeonInventoryItemObsidianDesc2,"No bonuses, no penalties."
 
-KinkyDungeonInventoryItemElven,Elven Dress
+KinkyDungeonInventoryItemElven,精靈裝
 KinkyDungeonInventoryItemElvenDesc,A regal minidress worn by visitors to the forest.
 KinkyDungeonInventoryItemElvenDesc2,"No bonuses, no penalties."
 
@@ -986,39 +987,39 @@ KinkyDungeonInventoryItemAncientPowerSourceSpentUseFail,"You are not sure how to
 KinkyDungeonInventoryItemAncientPowerSourceSpentDesc,"You're not sure how they charged these..."
 KinkyDungeonInventoryItemAncientPowerSourceSpentDesc2,"A mysterious device used by the old civilization, now depleted."
 
-KinkyDungeonInventoryItemGold,Gold
-KinkyDungeonInventoryItemRedKey,Key
+KinkyDungeonInventoryItemGold,金幣
+KinkyDungeonInventoryItemRedKey,鑰匙
 KinkyDungeonInventoryItemRedKeyDesc,"A key with traces of magic that fades with one use."
 KinkyDungeonInventoryItemRedKeyDesc2,"Can be used to unlock a restraint, door, or chest."
-KinkyDungeonInventoryItemBlueKey,Magic Key
+KinkyDungeonInventoryItemBlueKey,魔法鑰匙
 KinkyDungeonInventoryItemBlueKeyDesc,"A glowing key enchanted with magic that fades with one use."
 KinkyDungeonInventoryItemBlueKeyDesc2,"Can be used to unlock a blue lock."
-KinkyDungeonInventoryItemMagicKey,Magic Key
+KinkyDungeonInventoryItemMagicKey,魔法鑰匙
 KinkyDungeonInventoryItemMagicKeyDesc,"A magical key with the power to open blue locks."
 KinkyDungeonInventoryItemMagicKeyDesc2,"Blue locks can't be otherwise picked."
-KinkyDungeonInventoryItemEnchKnife,Magic Knife
+KinkyDungeonInventoryItemEnchKnife,魔法小刀
 KinkyDungeonInventoryItemEnchKnifeDesc,"A magical blade, suitable against ghosts."
 KinkyDungeonInventoryItemEnchKnifeDesc2,"Deals shadow damage. Can cut enchanted ropes."
-KinkyDungeonInventoryItemBola,Bola
-KinkyDungeonInventoryItemBolaDesc,"A pair of weights attached to a rope. Can be thrown."
-KinkyDungeonInventoryItemBolaDesc2,"Deals 90 points of binding, 40 chain damage, and rooting a target for 4 turns."
-KinkyDungeonInventoryItem3BolaDesc,"A pair of weights attached to a rope. Can be thrown."
-KinkyDungeonInventoryItem3BolaDesc2,"Deals 90 points of binding, 40 chain damage, and rooting a target for 4 turns."
-KinkyDungeonInventoryItemBomb,Bomb
-KinkyDungeonInventoryItemBombDesc,"After a 5 turn fuse, deals 100 fire damage in a 3x3 area."
-KinkyDungeonInventoryItemBombDesc2,"Not a toy!"
-KinkyDungeonInventoryItem3BombDesc,"After a 6 turn fuse, deals 100 fire damage in a 3x3 area."
-KinkyDungeonInventoryItem3BombDesc2,"Not a toy!"
-KinkyDungeonInventoryItemBombUse,You light the fuse!
-KinkyDungeonInventoryItemKnife,Knife
-KinkyDungeonInventoryItemLockpick,Lockpick
-KinkyDungeonInventoryItemLockpickDesc,"A tool used to pick locks."
-KinkyDungeonInventoryItemLockpickDesc2,"Doesn't last forever, but can help in a pinch."
-KinkyDungeonInventoryItem2Lockpick,lockpick x2
-KinkyDungeonInventoryItem4Lockpick,lockpicks x4
-KinkyDungeonInventoryItem3Bola,Bola x3
-KinkyDungeonInventoryItem3Bomb,Bomb x3
-KinkyDungeonInventoryItemPotionMana,Mana Potion
+KinkyDungeonInventoryItemBola,雙頭繩
+KinkyDungeonInventoryItemBolaDesc,"繫著一對重物的繩索。可以投擲。"
+KinkyDungeonInventoryItemBolaDesc2,"造成90點綑綁、40點鎖鍊傷害，並將目標定住4回合。"
+KinkyDungeonInventoryItem3BolaDesc,"繫著一對重物的繩索。可以投擲。"
+KinkyDungeonInventoryItem3BolaDesc2,"造成90點綑綁、40點鎖鍊傷害，並將目標定住4回合。"
+KinkyDungeonInventoryItemBomb,炸彈
+KinkyDungeonInventoryItemBombDesc,"5回合後引爆，並且在3x3的範圍內造成100點火焰傷害。"
+KinkyDungeonInventoryItemBombDesc2,"不是玩具！"
+KinkyDungeonInventoryItem3BombDesc,"6回合後引爆，並且在3x3的範圍內造成100點火焰傷害。"
+KinkyDungeonInventoryItem3BombDesc2,"不是玩具！"
+KinkyDungeonInventoryItemBombUse,妳點燃的導火線！
+KinkyDungeonInventoryItemKnife,小刀
+KinkyDungeonInventoryItemLockpick,開鎖器
+KinkyDungeonInventoryItemLockpickDesc,"用來撬鎖的工具."
+KinkyDungeonInventoryItemLockpickDesc2,"雖然不會持續到永遠，但是在緊急時能提供幫助。"
+KinkyDungeonInventoryItem2Lockpick,開鎖器 x2
+KinkyDungeonInventoryItem4Lockpick,開鎖器 x4
+KinkyDungeonInventoryItem3Bola,雙頭繩 x3
+KinkyDungeonInventoryItem3Bomb,炸彈 x3
+KinkyDungeonInventoryItemPotionMana,魔力藥水
 KinkyDungeonInventoryItemPotionManaUse,You sip the mana potion and feel empowered.
 KinkyDungeonInventoryItemPotionManaDesc,"A rare essence used by mages to recover their strength."
 KinkyDungeonInventoryItemPotionManaDesc2,"Restores 50% max MP instantly. Excess mana goes into the mana pool."
@@ -1026,11 +1027,11 @@ KinkyDungeonInventoryItemManaOrb,Mana Orb
 KinkyDungeonInventoryItemManaOrbUse,You clutch the mana orb and feel its energy.
 KinkyDungeonInventoryItemManaOrbDesc,"Mystical energies swirl inside a glass form."
 KinkyDungeonInventoryItemManaOrbDesc2,"Adds 200 MP to your mana pool. Requires no hands to use."
-KinkyDungeonInventoryItemPotionStamina,Stamina Potion
+KinkyDungeonInventoryItemPotionStamina,體力藥水
 KinkyDungeonInventoryItemPotionStaminaUse,You drink the stamina potion and feel invigorated.
 KinkyDungeonInventoryItemPotionStaminaDesc,"A potion brimming with heat and energy."
 KinkyDungeonInventoryItemPotionStaminaDesc2,"Restores 50% stamina and 250% more over 25 turns. Effect does not stack."
-KinkyDungeonInventoryItemPotionWill,Willpower Potion
+KinkyDungeonInventoryItemPotionWill,意志力藥水
 KinkyDungeonInventoryItemPotionWillUse,You drink the willpower potion and feel motivated.
 KinkyDungeonInventoryItemPotionWillDesc,"A sweet potion, brimming with determination."
 KinkyDungeonInventoryItemPotionWillDesc2,"Restores 25% willpower instantly. Can be used while gagged."
@@ -1038,7 +1039,7 @@ KinkyDungeonInventoryItemPotionFrigid,Frigid Potion
 KinkyDungeonInventoryItemPotionFrigidUse,"You chug the concoction and your senses numb, helping you concentrate."
 KinkyDungeonInventoryItemPotionFrigidDesc,"A freezing cold bottle with a bitter scent."
 KinkyDungeonInventoryItemPotionFrigidDesc2,"Reduces distraction to 0 and grants additional decay for 50 turns. Can be used while gagged."
-KinkyDungeonInventoryItemSmokeBomb,Smoke Bomb
+KinkyDungeonInventoryItemSmokeBomb,煙霧彈
 KinkyDungeonInventoryItemSmokeBombUse,You toss the smoke bomb and it explodes in your location!
 KinkyDungeonInventoryItemSmokeBombDesc,"A type of pyrotechnic often employed by saboteurs. Can be used without hands."
 KinkyDungeonInventoryItemSmokeBombDesc2,"Creates a smoke screen lasting 8 turns. You are harder to see while inside the smoke."
@@ -1140,7 +1141,7 @@ KinkyDungeonInventoryItemStaffChainDesc,"A magical weapon made for novices in th
 KinkyDungeonInventoryItemStaffChainDesc2,"+10% chain damage. Deals chain damage. 150% binding efficiency."
 
 
-ItemPickupStaffBind,"You pick up a staff of binding. You remember these from wizard school..."
+ItemPickupStaffBind,"You pick up a staff of binding. You remember these from 巫師 school..."
 ItemPickupStaffStorm,"You pick up a staff of the storm. Your hair stands on end."
 ItemPickupStaffIncineration,"You pick up a staff of incineration. It rumbles with molten fury."
 ItemPickupStaffDoll,"You pick up a staff with a name on it: DOLLMAKER"
@@ -1195,49 +1196,49 @@ KinkyDungeonInventoryItemFoilDesc,"En garde!"
 KinkyDungeonInventoryItemFoilDesc2,"Deals pierce damage. Deals 30 damage instead on vulnerable targets."
 ItemPickupFoil,"You pick up a fencing sword."
 
-KinkyDungeonInventoryItemHammer,Hammer
+KinkyDungeonInventoryItemHammer,鎚
 KinkyDungeonInventoryItemHammerDesc,"A rather simplistic bludgeoning weapon."
 KinkyDungeonInventoryItemHammerDesc2,"Deals crush damage and knocks the target back."
-KinkyDungeonInventoryItemFlail,Flail
+KinkyDungeonInventoryItemFlail,連枷
 KinkyDungeonInventoryItemFlailDesc,"A ball on a chain. Very fast and hard to dodge."
-KinkyDungeonInventoryItemFlailDesc2,"Also deals 10 damage to targets next to you. Deals crush damage."
-KinkyDungeonInventoryItemSpear,Spear
+KinkyDungeonInventoryItemFlailDesc,"Also deals 10 damage to targets next to you. Deals crush damage."
+KinkyDungeonInventoryItemSpear,長矛
 KinkyDungeonInventoryItemSpearDesc,"Speak softly and carry a pointy stick."
 KinkyDungeonInventoryItemSpearDesc2,"Deals pierce damage to the target and one square behind it."
-KinkyDungeonInventoryItemBoltCutters,Bolt Cutters
-KinkyDungeonInventoryItemBoltCuttersDesc,"A cutting tool useful as a bludgeon, and also for cutting locks and chains."
+KinkyDungeonInventoryItemBoltCutters,斷線鉗
+KinkyDungeonInventoryItemBoltCuttersDesc,"一種可作為棍棒，也可用來剪鎖或鍊鎖鍊的切割工具。"
 KinkyDungeonInventoryItemBoltCuttersDesc2,"Also assists in cutting restraints when equipped."
-KinkyDungeonInventoryItemKnife,Knife
+KinkyDungeonInventoryItemKnife,小刀
 KinkyDungeonInventoryItemKnifeDesc,"A go-to for travelers and adventurers."
 KinkyDungeonInventoryItemKnifeDesc2,"Deals slash damage."
-KinkyDungeonInventoryItemTorch,Torch
+KinkyDungeonInventoryItemTorch,火炬
 KinkyDungeonInventoryItemTorchDesc,"Second only to the mighty towel in usefulness."
 KinkyDungeonInventoryItemTorchDesc2,"Deals fire damage. Provides light."
-KinkyDungeonInventoryItemUnarmed,Unarmed
+KinkyDungeonInventoryItemUnarmed,空手
 KinkyDungeonInventoryItemUnarmedDesc,"Fight with your hands and feet."
 KinkyDungeonInventoryItemUnarmedDesc2,"Deals unarmed damage."
-KinkyDungeonInventoryItemSword,Sword
+KinkyDungeonInventoryItemSword,長劍
 KinkyDungeonInventoryItemSwordDesc,"The blade is strong, its edge sharp."
 KinkyDungeonInventoryItemSwordDesc2,"A fast and accurate weapon that deals slash damage."
-KinkyDungeonInventoryItemFlamberge,Flamberge
+KinkyDungeonInventoryItemFlamberge,火焰劍
 KinkyDungeonInventoryItemFlambergeDesc,"A blade forged in a magical fire."
 KinkyDungeonInventoryItemFlambergeDesc2,"Deals 20 bonus fire damage on hit."
-KinkyDungeonInventoryItemEscortDrone,Escort Drone
+KinkyDungeonInventoryItemEscortDrone,保鑣無人機
 KinkyDungeonInventoryItemEscortDroneDesc,"A semi-autonomous drone with a personal defense beam. Does not require hands to equip."
 KinkyDungeonInventoryItemEscortDroneDesc2,"Deals electric damage. 33% chance to stun for 4 turns."
-KinkyDungeonInventoryItemVibeWand,Magic Wand
+KinkyDungeonInventoryItemVibeWand,法杖
 KinkyDungeonInventoryItemVibeWandDesc,"Its powers extend beyond the traditional schools of magic."
 KinkyDungeonInventoryItemVibeWandDesc2,"Deals charm damage. 20% chance to stun the target for 2 turns."
-KinkyDungeonInventoryItemFeather,Feather
+KinkyDungeonInventoryItemFeather,羽毛
 KinkyDungeonInventoryItemFeatherDesc,"A feather useful for tickling."
 KinkyDungeonInventoryItemFeatherDesc2,"Deals tickle damage. Distracts enemies."
-KinkyDungeonInventoryItemIceCube,Ice Cube
+KinkyDungeonInventoryItemIceCube,冰方
 KinkyDungeonInventoryItemIceCubeDesc,"A magical cube of ice that never melts. Convenient!"
 KinkyDungeonInventoryItemIceCubeDesc2,"Deals 10 ice damage with a 10% chance to freeze for 3 turns."
-KinkyDungeonInventoryItemRope,Rope
+KinkyDungeonInventoryItemRope,繩索
 KinkyDungeonInventoryItemRopeDesc,"A kidnapper's most versatile tool."
 KinkyDungeonInventoryItemRopeDesc2,"Deals chain damage and applies 50 points of binding."
-KinkyDungeonInventoryItemMagicSword,Enchanted Sword
+KinkyDungeonInventoryItemMagicSword,賦魔劍
 KinkyDungeonInventoryItemMagicSwordDesc,"Slices through ghosts with ease!"
 KinkyDungeonInventoryItemMagicSwordDesc2,"A sword that guides itself toward its target, making it easy to hit with."
 KinkyDungeonInventoryItemDragonslaver,Dragonslaver
@@ -1330,9 +1331,9 @@ KinkyDungeonPlayerEdged,"Edged!"
 KinkyDungeonPlayerStatisfied,"Satisfied~"
 
 
-KinkyDungeonWeaponDamage,"Damage: "
-KinkyDungeonWeaponAccuracy,"Accuracy: "
-KinkyDungeonWeaponStamina,"SP Cost: "
+KinkyDungeonWeaponDamage,"傷害: "
+KinkyDungeonWeaponAccuracy,"命中率: "
+KinkyDungeonWeaponStamina,"消耗體力: "
 
 KinkyDungeonCharger,It appears to be a receptacle
 KinkyDungeonChargerPlaceCrystal,Place live crystal
@@ -2555,11 +2556,11 @@ PlayerRangedImmune,"AttackName hits TargetEnemy but DamageType damage doesn't ha
 PlayerRangedStrong,"AttackName hits TargetEnemy for an increased DamageDealt DamageType damage!"
 PlayerRangedSpellResist,"AttackName hits TargetEnemy for DamageDealt DamageType damage, reduced by an anti-magic ward!"
 PlayerRangedVeryStrong,"AttackName hits TargetEnemy for a devastating DamageDealt DamageType damage!"
-KinkyDungeonBasicAttack,attack
-KinkyDungeonBasicDamage,damage
-PlayerMiss,"You miss the TargetEnemy!"
-PlayerMissArmor,"Your attack is too feeble to hurt the TargetEnemy!"
-KinkyDungeonStruggleStruggleFail,"You try to pull the TargetRestraint off..."
+KinkyDungeonBasicAttack,攻擊
+KinkyDungeonBasicDamage,傷害
+PlayerMiss,"妳沒擊中 TargetEnemy!"
+PlayerMissArmor,"妳的攻擊微弱的難以傷到 TargetEnemy!"
+KinkyDungeonStruggleStruggleFail,"妳嘗試拔下(pull off) TargetRestraint..."
 KinkyDungeonStruggleStruggleFailAroused,"You try to squirm and moan out of the TargetRestraint..."
 KinkyDungeonStruggleStruggleFail2,"You tug on the TargetRestraint with increased power..."
 KinkyDungeonStruggleStruggleFail3,"Your ally helps you try to pull the TargetRestraint off..."
@@ -2573,11 +2574,11 @@ KinkyDungeonAttemptPickFail,"You work on picking the TargetRestraint..."
 KinkyDungeonAttemptPickFailAroused,"Your trembling hands work on picking the TargetRestraint..."
 KinkyDungeonAttemptPickFail2,"You work on picking the TargetRestraint with your powers..."
 KinkyDungeonAttemptPickFail3,"Your ally tries to pick the lock on your TargetRestraint..."
-KinkyDungeonAttemptPickBreak,"You break your lockpick trying to open the TargetRestraint."
-KinkyDungeonStruggleRemoveFail,"You try to remove the TargetRestraint..."
-KinkyDungeonStruggleRemoveFailAroused,"You shakily try to remove the TargetRestraint..."
-KinkyDungeonStruggleRemoveFail2,"You try to remove the TargetRestraint with a tool..."
-KinkyDungeonStruggleRemoveFail3,"Your ally helps you remove the TargetRestraint..."
+KinkyDungeonAttemptPickBreak,"妳在嘗試打開 TargetRestraint 的時候弄壞了開鎖器."
+KinkyDungeonStruggleRemoveFail,"妳嘗試移除 TargetRestraint..."
+KinkyDungeonStruggleRemoveFailAroused,"妳顫抖著嘗試移除 TargetRestraint..."
+KinkyDungeonStruggleRemoveFail2,"妳嘗試用工具移除 TargetRestraint..."
+KinkyDungeonStruggleRemoveFail3,"妳的盟友協助妳移除 TargetRestraint..."
 KinkyDungeonStruggleCutFail,"You try to cut the TargetRestraint..."
 KinkyDungeonStruggleCutFailAroused,"You tremble as you try to cut the TargetRestraint..."
 KinkyDungeonStruggleCutFail2,"You try to cut the TargetRestraint using your tools..."
@@ -2585,7 +2586,7 @@ KinkyDungeonStruggleCutFail3,"You try to cut the TargetRestraint with help..."
 KinkyDungeonStruggleCutBreak,"You break your knife trying to cut the TargetRestraint."
 KinkyDungeonStruggleCutDrop,"You try to cut the TargetRestraint..."
 KinkyDungeonStruggleUnlockFail,"You fiddle with the key on the TargetRestraint..."
-KinkyDungeonStruggleUnlockFailAroused,"Your jittering hands fumble with the key on the TargetRestraint..."
+KinkyDungeonStruggleUnlockFailAroused,"妳用發抖的手在 TargetRestraint 上尋找鑰匙孔..."
 KinkyDungeonStruggleUnlockFail2,"You concentrate on unlocking the TargetRestraint..."
 KinkyDungeonStruggleUnlockFail3,"You work on unlocking the TargetRestraint with help..."
 KinkyDungeonStruggleUnlockDrop,"You fiddle with the key on the TargetRestraint..."
@@ -2640,8 +2641,8 @@ KinkyDungeonUseCrackLegs,You use your feet to place the knife into a crack!
 KinkyDungeonNeedCrack,"You glare at the crack in the wall as you realize you couldn't maneuver the knife if you tried."
 KinkyDungeonNeedGrip,You can't hold your knife like this...
 
-KinkyDungeonStruggleStruggleImpossible,"The TargetRestraint is too secure to struggle out."
-KinkyDungeonStruggleStruggleImpossibleAroused,"You groan in frustration as you realize the TargetRestraint is too tight to escape."
+KinkyDungeonStruggleStruggleImpossible,"TargetRestraint 太牢靠了，無法掙脫"
+KinkyDungeonStruggleStruggleImpossibleAroused,"妳沮喪的嘆息著，因為意識到 TargetRestraint 緊的無法逃脫。"
 KinkyDungeonStruggleStruggleImpossible2,"The TargetRestraint tightens itself as you try to squeeze out!"
 KinkyDungeonStruggleStruggleImpossible3,"You will need someone's help to squeeze out of the TargetRestraint."
 KinkyDungeonStruggleStruggleImpossibleGoddess,"The TargetRestraint flashes magically as the Goddess' curse resists your efforts!"
@@ -2707,8 +2708,8 @@ KinkyDungeonStruggleRemoveImpossibleBound,"You are too tightly bound to manipula
 KinkyDungeonStruggleRemoveImpossibleBoundAroused,"Your futile struggles do nothing to loosen the fasteners on the TargetRestraint."
 KinkyDungeonStruggleRemoveStrict,"You try to undo the fasteners on the TargetRestraint, but they are blocked by other straps!"
 KinkyDungeonStruggleRemoveStrictAroused,"You rub your body uselessly as you find another strap securing the TargetRestraint."
-KinkyDungeonStruggleRemoveImpossibleGoddess,"You feel the Goddess' hand keeping the TargetRestraint tightly secured!"
-KinkyDungeonStruggleCutImpossible,"The TargetRestraint is too durable to cut."
+KinkyDungeonStruggleRemoveImpossibleGoddess,"妳感受到女神的手將 TargetRestraint 穩穩固定住!"
+KinkyDungeonStruggleCutImpossible,"TargetRestraint太結實而無法被切割。"
 KinkyDungeonStruggleCutImpossibleAroused,"Your hopeless attempts fail to even leave a scratch on the TargetRestraint."
 KinkyDungeonStruggleCutImpossible2,"You fail to leave even a scratch on the TargetRestraint!"
 KinkyDungeonStruggleCutImpossible3,"You can't get any leverage to cut the TargetRestraint with..."
@@ -2841,8 +2842,8 @@ KinkyDungeonDropRedKey,"You drop the key due to your bound hands!"
 KinkyDungeonDropBlueKey,"You drop the magic key due to your bound hands!"
 KinkyDungeonDropGreenKey,"You drop the magic key due to your bound hands!"
 
-KinkyDungeonLogbook,Logbook
-KinkyDungeonLogbookN,Logbook (N)
+KinkyDungeonLogbook,日誌
+KinkyDungeonLogbookN,日誌 (N)
 KinkyDungeonAutoPassOn,"Passing..."
 KinkyDungeonAutoPassOff,"Pass NPCs"
 KinkyDungeonAutoDoorOn,"Closing..."
@@ -2891,16 +2892,16 @@ KinkyDungeonShrineMetal,"Metal"
 KinkyDungeonShrineRope,"Ropes"
 KinkyDungeonShrineWill,"Restoration"
 KinkyDungeonShrineElements,"Elements"
-KinkyDungeonShrineConjure,"Conjuration"
+KinkyDungeonShrineConjure,"魔術"
 KinkyDungeonShrineIllusion,"Illusions"
 KinkyDungeonShrineCommerce,"Commerce"
 KinkyDungeonShrineTooltip,"Shrine of SHRINETYPE"
 KinkyDungeonTabletTooltip,"Tablet of "
 
-KDGoddessStat_Bonus,"Goddess Blessing: "
-KDGoddessStat_Penalty,"Goddess Curse: "
+KDGoddessStat_Bonus,"女神的祝福: "
+KDGoddessStat_Penalty,"女神的詛咒: "
 
-KinkyDungeonShrineCursed,"Curses"
+KinkyDungeonShrineCursed,"詛咒"
 KinkyDungeonShrineDetermination,"Willpower"
 
 KinkyDungeonObjectTablet,"A tablet inscribed with runes of TYPE."
@@ -2960,16 +2961,16 @@ KinkyDungeonCommerceNext,"Next Offer"
 KinkyDungeonCommercePurchase,"Buy (press right)"
 KinkyDungeonCommerceCost,"Cost: ItemCostgp"
 
-ClimbDown,"You climb down to the next level"
+ClimbDown,"妳爬到下一層"
 
 KinkyDungeonRestraintLevel,Level RestraintLevel (Rarity)
 
-KinkyDungeonCategoryFilterconsumable,Consumable
-KinkyDungeonCategoryFilterrestraint,Equipped
-KinkyDungeonCategoryFilterweapon,Weapons
-KinkyDungeonCategoryFilteroutfit,Outfits
-KinkyDungeonCategoryFilterlooserestraint,Wearable
-KinkyDungeonCategoryFiltermisc,Miscellaneous
+KinkyDungeonCategoryFilterconsumable,消耗品
+KinkyDungeonCategoryFilterrestraint,已裝備
+KinkyDungeonCategoryFilterweapon,武器
+KinkyDungeonCategoryFilteroutfit,服裝
+KinkyDungeonCategoryFilterlooserestraint,可穿戴
+KinkyDungeonCategoryFiltermisc,其他
 
 KDNoisyTerrain,The terrain makes noise as you rush across it...
 
@@ -3059,7 +3060,7 @@ RestraintPanelPlugGag,Panel Plug Gag
 RestraintPanelPlugGagDesc,"A gag meant to keep people quiet by forcing a dildo into their mouth."
 RestraintPanelPlugGagDesc2,"It is difficult to pull off and though it is made from supple, heavy duty leather."
 
-RestraintMikoCollar,Fuuka's Collar
+RestraintMikoCollar,Fuuka的頸圈
 RestraintMikoCollarDesc,"A collar enchanted with ghastly energy."
 RestraintMikoCollarDesc2,"It seems to react with a pulse of energy whenever a nearby enemy is defeated."
 KDMikoCollarSummmon,"Your collar pulses, and a revenant appears to avenge the enemy you defeated!"
@@ -3757,22 +3758,22 @@ RestraintComfyStraitjacket,Comfy Straitjacket
 RestraintComfyStraitjacketDesc,A straitjacket that is padded on the inside.
 RestraintComfyStraitjacketDesc2,It feels tight but is actually made of an ethereal material...
 
-RestraintLatexStraitjacket,Latex Jacket
+RestraintLatexStraitjacket,乳膠夾克
 RestraintLatexStraitjacketDesc,A tight jacket that holds your arms completely useless.
 RestraintLatexStraitjacketDesc2,It has too much grip to struggle out of, but is made of a fragile material.
-RestraintLatexArmbinder,Latex Armbinder
+RestraintLatexArmbinder,乳膠束手袋
 RestraintLatexArmbinderDesc,A tight armbinder that pins your arms tightly behind your back, enclosed completely.
 RestraintLatexArmbinderDesc2,It has too much grip to struggle out of, but is made of a fragile material.
-RestraintLatexLegbinder,Latex Legbinder
+RestraintLatexLegbinder,乳膠束腿套
 RestraintLatexLegbinderDesc,A tight legbinder that keeps your legs together!
 RestraintLatexLegbinderDesc2,It has too much grip to struggle out of, but is made of a fragile material.
-RestraintLatexBoots,Latex Boots
+RestraintLatexBoots,乳膠長靴
 RestraintLatexBootsDesc,A tight pair of boots that makes it difficult to walk!
 RestraintLatexBootsDesc2,It has too much grip to struggle out of, but is made of a fragile material.
-RestraintLatexCorset,Heavy Latex Corset
+RestraintLatexCorset,厚乳膠胸衣
 RestraintLatexCorsetDesc,An excruciatingly tight corset that hugs your body, with straps securing your other restraints.
 RestraintLatexCorsetDesc2,It has too much grip to struggle out of, but is made of a fragile material.
-RestraintLatexCatsuit,Latex Catsuit
+RestraintLatexCatsuit,乳膠連體衣
 RestraintLatexCatsuitDesc,"A skintight suit that's stretched on tight. It adheres to latex restraints making struggling more difficult."
 RestraintLatexCatsuitDesc2,"Blue latex is silky smooth, very stretchy, and very good at adhering to itself."
 
@@ -3916,7 +3917,7 @@ RestraintMaidAnkleCuffs2Desc,"A pair of steel cuffs used by the Maidforce."
 RestraintMaidAnkleCuffs2Desc2,"They are made of solid steel."
 KinkyDungeonUnLinkMaidAnkleCuffs2,"The ankle cuff chain detaches!"
 
-RestraintMaidCollar,Maid Collar
+RestraintMaidCollar,女僕頸圈
 RestraintMaidCollarDesc,"A collar for operatives of the Maidforce, a group of covert saboteurs."
 RestraintMaidCollarDesc2,"It's reinforced with metal and guarded with an expert-level lock."
 RestraintMaidGag,Plug Gag
@@ -4372,14 +4373,14 @@ ItemPickupAncientPowerSourceSpent,"You retrieve a spent ancient power crystal."
 ItemPickupHeart,"You pick up a magical amulet and use it to boost your stats."
 ItemPickupLeylineMap,"You pick up a Leyline Map."
 ItemPickupKnife,"You pick up a knife."
-ItemPickupTorch,"You pick up a torch."
+ItemPickupTorch,"妳撿起一根火炬"
 ItemPickupKnives,"You found a bundle of discarded knives!"
-ItemPickupEnchKnife,"You pick up an enchanted knife."
-ItemPickupMagicKnife,"You pick up a magic knife."
-ItemPickupPick,"You pick up a lockpick."
-ItemPickupRedKey,"You pick up a normal key."
-ItemPickupGreenKey,"You pick up a green key."
-ItemPickupBlueKey,"You pick up a blue key."
+ItemPickupEnchKnife,"妳撿起一把賦魔小刀。"
+ItemPickupMagicKnife,"妳撿起一把魔法小刀。"
+ItemPickupPick,"妳撿起一個開鎖器。"
+ItemPickupRedKey,"妳撿起一把普通的鑰匙。"
+ItemPickupGreenKey,"妳撿起一把綠色鑰匙。"
+ItemPickupBlueKey,"妳撿起一把藍色鑰匙。"
 ItemPickupPotionWill,"You pick up a willpower potion."
 ItemPickupPotionMana,"You pick up a glowing blue mana potion."
 ItemPickupManaOrb,"You pick up a glowing blue orb."
@@ -4437,11 +4438,11 @@ ItemPickupScrollLegs,"You pick up a Scroll of Sauntering."
 KinkyDungeonDisarm,"As you strike again, your weapon is pulled out of your grasp!"
 KinkyDungeonDisarmCut,"Your weapon slips out of your hand as you try to cut with it..."
 
-KinkyDungeonUnEquipWeapon,"You put away the WEAPONNAME"
-KinkyDungeonEquipWeapon,"You equip the WEAPONNAME"
-KinkyDungeonUnEquip,"Unequip"
-KinkyDungeonEquip,"Equip"
-KinkyDungeonEquipped,"Equipped"
+KinkyDungeonUnEquipWeapon,"妳拿下了 WEAPONNAME"
+KinkyDungeonEquipWeapon,"妳裝備了 WEAPONNAME"
+KinkyDungeonUnEquip,"卸下"
+KinkyDungeonEquip,"裝備"
+KinkyDungeonEquipped,"已裝備"
 
 KDEffectTileTooltipT,
 KDEffectTileTooltipTDesc,""
@@ -4550,18 +4551,18 @@ KinkyDungeonComponentsFailVerbal,"The incantation comes out as a garbled mess!"
 KinkyDungeonComponentsFailArms,"You can't raise your arms to cast the spell!"
 KinkyDungeonComponentsFailLegs,"Your feet are too clumsy to perform the magic gesture!"
 
-KinkyDungeonBookNextPage,Next Page
-KinkyDungeonBookLastPage,Last Page
+KinkyDungeonBookNextPage,下一頁
+KinkyDungeonBookLastPage,上一頁
 KinkyDungeonBookNextPageFast,>>>
 KinkyDungeonBookLastPageFast,<<<
-KinkyDungeonBookRandomPage,Random Page (your hands are tied)
+KinkyDungeonBookRandomPage,隨機頁(手累了)
 
 KinkyDungeonColumnVerbal,"Verbal"
 KinkyDungeonColumnArms,"Arms"
 KinkyDungeonColumnLegs,"Legs"
 KinkyDungeonColumnPassive,"Misc"
 KinkyDungeonColumnElements,"Elements"
-KinkyDungeonColumnConjure,"Conjuration"
+KinkyDungeonColumnConjure,"魔術"
 KinkyDungeonColumnIllusion,"Illusion"
 KinkyDungeonColumnOther,"Other"
 KinkyDungeonColumnStrength,"Strength"
@@ -4588,15 +4589,15 @@ KinkyDungeonFilterearth,Earth
 KinkyDungeonFilterair,Air
 KinkyDungeonFilterelectric,Lightning
 KinkyDungeonFilterwater,Water
-KinkyDungeonFilterslime,Rubber
-KinkyDungeonFilterteleport,Teleport
-KinkyDungeonFilterphysics,Physics
-KinkyDungeonFilterconjure,Conjuration
-KinkyDungeonFiltersummon,Summoning
+KinkyDungeonFilterslime,橡膠
+KinkyDungeonFilterteleport,傳送
+KinkyDungeonFilterphysics,物理
+KinkyDungeonFilterconjure,魔術
+KinkyDungeonFiltersummon,召喚
 KinkyDungeonFilterbinding,Binding
-KinkyDungeonFiltermetal,Metal
+KinkyDungeonFiltermetal,金屬
 KinkyDungeonFilterrope,Rope
-KinkyDungeonFilterleather,Leather
+KinkyDungeonFilterleather,皮革
 KinkyDungeonFilterstealth,Stealth
 KinkyDungeonFilterprojection,Projection
 KinkyDungeonFilteralteration,Alteration
@@ -4657,18 +4658,18 @@ KinkyDungeonSpellDescriptionApprenticeEarth,Unlocks earth spells. Learn Stone Sk
 KinkyDungeonSpellApprenticeAir,Air Novice
 KinkyDungeonSpellDescriptionApprenticeAir,Unlocks air spells. Learn Wind Blast.
 
-KinkyDungeonSpellApprenticeLatex,Latex 101
-KinkyDungeonSpellDescriptionApprenticeLatex,Unlocks latex spells. Learn Slime Ball.
-KinkyDungeonSpellApprenticeMetal,Metal 101
-KinkyDungeonSpellDescriptionApprenticeMetal,Unlocks metal spells. Learn Conjure Cuffs.
-KinkyDungeonSpellApprenticeRope,Rope 101
-KinkyDungeonSpellDescriptionApprenticeRope,Unlocks rope spells. Learn Conjure Ropes.
-KinkyDungeonSpellApprenticeLeather,Leather 101
-KinkyDungeonSpellDescriptionApprenticeLeather,Unlocks leather spells. Learn Conjure Gag.
-KinkyDungeonSpellApprenticePhysics,Physics 101
-KinkyDungeonSpellDescriptionApprenticePhysics,Unlocks teleportation and physical manipulation spells. Learn Wall.
-KinkyDungeonSpellApprenticeSummon,Summoning 101
-KinkyDungeonSpellDescriptionApprenticeSummon,Unlocks summoning spells. Learn Summon Familiar.
+KinkyDungeonSpellApprenticeLatex,乳膠 101
+KinkyDungeonSpellDescriptionApprenticeLatex,解鎖乳膠咒語. 學習 黏液球。
+KinkyDungeonSpellApprenticeMetal,金屬 101
+KinkyDungeonSpellDescriptionApprenticeMetal,解鎖金屬咒語。學習 魔術鐐銬。
+KinkyDungeonSpellApprenticeRope,繩索 101
+KinkyDungeonSpellDescriptionApprenticeRope,解鎖繩索咒語。學習 魔術繩索。
+KinkyDungeonSpellApprenticeLeather,皮革 101
+KinkyDungeonSpellDescriptionApprenticeLeather,解鎖皮革咒語。學習 魔術猿轡。
+KinkyDungeonSpellApprenticePhysics,物理 101
+KinkyDungeonSpellDescriptionApprenticePhysics,解所傳送和物體操作咒語。學習 牆壁。
+KinkyDungeonSpellApprenticeSummon,召喚 101
+KinkyDungeonSpellDescriptionApprenticeSummon,解鎖召喚咒語。學習召喚眷屬。
 
 KinkyDungeonSpellApprenticeShadow,Blessing of Shadow
 KinkyDungeonSpellDescriptionApprenticeShadow,Unlocks shadow spells. Learn Shadow Dagger.
@@ -4774,7 +4775,7 @@ KinkyDungeonSpellDescriptionIgnite,"Ignite a friendly target for Duration turns,
 KinkyDungeonSpellCastIgnite,"You spin in a circle, inscribing flames with your feet!"
 KinkyDungeonSpellTargetIgnite,Choose a friendly target to ignite
 
-KinkyDungeonSpellChainBolt,Conjure Chain
+KinkyDungeonSpellChainBolt,魔術鎖鏈
 KinkyDungeonSpellMagicChain,Magic Chain
 KinkyDungeonSpellWitchChainBolt,Witch's Chain
 KinkyDungeonSpellDescriptionChainBolt,Throws a chain that does DamageDealt chain damage. Targets with 50% or more binding take 50 crush damage and are slowed for 4 turns.
@@ -5720,8 +5721,8 @@ KinkyDungeonPlugWalk0,You feel slightly full as you move...
 KinkyDungeonPlugWalk1,Your movement disturbs the plugs inside of you...
 KinkyDungeonPlugWalk2,The large plugs shift(s) around inside of you...
 KinkyDungeonPlugWalk3,The huge plugs rub(s) around constantly inside of you...
-KinkyDungeonSlowed0,Your movements are hobbled.
-KinkyDungeonSlowed1,Your hobbled movement disturbs the plugs inside of you.
+KinkyDungeonSlowed0,妳步履蹣跚。
+KinkyDungeonSlowed1,妳蹣跚的步伐攪動著體內的插入物。
 KinkyDungeonSlowed2,The large plugs shift(s) around inside of you from your hobbled movement...
 KinkyDungeonSlowed3,The massive plugs rub(s) around inside of you as you hobble forward...
 KinkyDungeonHopping0,You hop forward!
@@ -5846,14 +5847,14 @@ KinkyDungeonTrapSleepDart,"You feel a prick as a small dart hits you, and you st
 KinkyDungeonTrapLustCloud,"You breathe in the gas, and a wave of pleasure hits your whole body."
 KinkyDungeonTrapSPCloud,"You breathe in the gas, and feel lethargic..."
 
-KinkyDungeonInventory,"Inventory"
-KinkyDungeonReputation,"Reputation"
-KinkyDungeonMagic,"Spells"
-KinkyDungeonMagicSpells,"Learn New Spells"
+KinkyDungeonInventory,"道具欄"
+KinkyDungeonReputation,"名聲"
+KinkyDungeonMagic,"咒語"
+KinkyDungeonMagicSpells,"學習新咒語"
 KinkyDungeonMagicSpellsQuick,"Click a spell to replace SPELLNAME with."
 KinkyDungeonSpellNone,"Empty Slot"
-KinkyDungeonMagicSpellsBack,"Back to Spellbook"
-KinkyDungeonGame,"Return to Game"
+KinkyDungeonMagicSpellsBack,"回到咒語書"
+KinkyDungeonGame,"回到遊戲"
 
 
 KinkyDungeonSpellsPageUpgrade,"Spell Tree"
@@ -6260,16 +6261,16 @@ KinkyDungeonItemsStrictness,"Increased strictness due to:"
 KinkyDungeonAidMana,Mana
 KinkyDungeonAidBondage,Bondage
 KinkyDungeonAskAid,Ask for Aid
-KinkyDungeonAskChampion,Become a Champion
-KinkyDungeonRescue,Ask
-KinkyDungeonAskRescue,Ask for Rescue
+KinkyDungeonAskChampion,成為擁護者
+KinkyDungeonRescue,請求
+KinkyDungeonAskRescue,請求救援
 KinkyDungeonPenance,Offer
 KinkyDungeonAskPenance,Offer Penance
-KinkyDungeonChampionCurrent,Current Champion
-KinkyDungeonChampionSwitch,Switch Champion
+KinkyDungeonChampionCurrent,目前的擁護對象
+KinkyDungeonChampionSwitch,改變擁護對象
 
-KinkyDungeonChampionDesc,"Become the champion of this goddess. Capturing bound enemies will grant +1 rep."
-KinkyDungeonBecomeChampion,"You are now the champion of the Goddess of GODDESS."
+KinkyDungeonChampionDesc,"成為這位女神的擁護者。捕獲特定的敵人時可獲得1點聲望。"
+KinkyDungeonBecomeChampion,"妳現在已經是女神 GODDESS 的擁護者。"
 
 KinkyDungeonAidDescRope,"For 3 rep the goddess will grant you slipperiness, boosting your struggling."
 KinkyDungeonAidDescMetal,"For 3 rep the goddess will grant you a key."
@@ -6360,8 +6361,8 @@ KinkyDungeonGoldLockRemove,A golden lock fades into a blue lock on one of your r
 KinkyDungeonPurpleLockRemove,Your command word is heard and the purple lock(s) click and fall off!
 KinkyDungeonPurpleLockRemoveCharger,Your command word is heard and the charger unlocks!
 
-KDGameData.ConfirmAttack,Are you sure you want to attack?
-KinkyDungeonConfirmStairs,Are you sure you want to go to the next level? (Click self to confirm)
+KDGameData.ConfirmAttack,妳確定妳要攻擊嗎？
+KinkyDungeonConfirmStairs,妳確定要進入下一層嗎? (點自己確定)
 
 KinkyDungeonSelfBondage,You shudder as you apply the RestraintName to yourself...
 KinkyDungeonSelfBondagePlug,"You insert the RestraintName and close your belt's shield over it, with a click as it locks in place."
@@ -6511,16 +6512,16 @@ KDStatusTooltipEnemyBelt,Belted
 KDStatusTooltipEnemyPlug,Wearing a toy
 KDStatusTooltipEnemyVibed,Vibed!
 
-KinkyDungeonDamageTypeacid,"Acid"
-KinkyDungeonDamageTypecold,"Shadow"
-KinkyDungeonDamageTypefrost,"Ice"
-KinkyDungeonDamageTypeice,"Ice"
-KinkyDungeonDamageTypefire,"Fire"
-KinkyDungeonDamageTypepoison,"Poison"
-KinkyDungeonDamageTypecharm,"Charm"
-KinkyDungeonDamageTypetickle,"Tickle"
-KinkyDungeonDamageTypegrope,"Grope"
-KinkyDungeonDamageTypecrush,"Crush"
+KinkyDungeonDamageTypeacid,"酸蝕"
+KinkyDungeonDamageTypecold,"陰影"
+KinkyDungeonDamageTypefrost,"凍結"
+KinkyDungeonDamageTypeice,"冰雪"
+KinkyDungeonDamageTypefire,"火焰"
+KinkyDungeonDamageTypepoison,"毒素"
+KinkyDungeonDamageTypecharm,"魅惑"
+KinkyDungeonDamageTypetickle,"搔癢"
+KinkyDungeonDamageTypegrope,"撫摸"
+KinkyDungeonDamageTypecrush,"粉碎"
 KinkyDungeonDamageTypegravity,"Gravity"
 KinkyDungeonDamageTypepierce,"Pierce"
 KinkyDungeonDamageTypeslash,"Slash"
@@ -6534,10 +6535,10 @@ KinkyDungeonDamageTypestun,"Pressure"
 KinkyDungeonDamageTypechain,"Chain"
 KinkyDungeonDamageTypehappygas,"Charm"
 KinkyDungeonDamageTypeglue,"Glue"
-KinkyDungeonDamageTypeunarmed,"Unarmed"
-KinkyDungeonDamageTypemelee,"Melee"
-KinkyDungeonDamageTypemagic,"Magic"
-KinkyDungeonDamageTypespell,"Spell"
+KinkyDungeonDamageTypeunarmed,"空手"
+KinkyDungeonDamageTypemelee,"近戰"
+KinkyDungeonDamageTypemagic,"魔法"
+KinkyDungeonDamageTypespell,"咒語"
 KinkyDungeonDamageTypeunstoppable,"Unstoppable"
 KinkyDungeonDamageTypeunflinching,"Unflinching"
 
@@ -6588,60 +6589,60 @@ KinkyDungeonPlayCorner,You rub yourself on the corner...
 
 KinkyDungeonRemoveLowLevelRope,"Many ropes emerge around you, removing weaker ropes from your body and binding enemies!"
 
-KDClasses,"Choose Class:"
+KDClasses,"選擇職業:"
 
-KDSexyMode,"Distraction Mode:"
+KDSexyMode,"性慾模式:"
 
-KinkyDungeonSexyMode0,Distracted
-KinkyDungeonSexyMode1,Aroused
-KinkyDungeonSexyModeDesc0,"Removes all chastity belts, vibrating restraints, plugs, and removes the option to play with yourself."
-KinkyDungeonSexyModeDesc1,"Includes all that good stuff."
-KinkyDungeonSexyPlugs,Allow Rear Plugs
-KinkyDungeonSexyPiercings,Allow Piercings
+KinkyDungeonSexyMode0,無感
+KinkyDungeonSexyMode1,興奮
+KinkyDungeonSexyModeDesc0,"移除所有貞操帶、震動拘束、插入物，及自慰的選項。"
+KinkyDungeonSexyModeDesc1,"囊括所有的好玩意。"
+KinkyDungeonSexyPlugs,允許 肛塞
+KinkyDungeonSexyPiercings,允許 穿孔
 
-KinkyDungeonClassMode0,Fighter
-KinkyDungeonClassModeDesc0,"Start with 200 willpower and Iron Will, good at melee and blocking attacks."
-KinkyDungeonClassMode1,Rogue
-KinkyDungeonClassModeDesc1,"Start with 200 stamina and Sneaky, good at stealth and evasive gameplay."
-KinkyDungeonClassMode2,Wizard
-KinkyDungeonClassModeDesc2,"Start with 200 mana and Magical Sight, good at casting spells."
-KinkyDungeonClassMode3,Peasant
-KinkyDungeonClassModeDesc3,"Start with nothing to your name. For those who want a challenge."
-KinkyDungeonClassMode4,Trainee
-KinkyDungeonClassModeDesc4,"You are a mage, but haven't finished your formal 'training'. Requires Aroused mode."
+KinkyDungeonClassMode0,戰士
+KinkyDungeonClassModeDesc0,"以200意志力和鋼鐵意志開局，擅長近戰和格擋攻擊。"
+KinkyDungeonClassMode1,盜賊
+KinkyDungeonClassModeDesc1,"以200體力和Sneaky開局，擅長潛行和閃避的玩法。"
+KinkyDungeonClassMode2,巫師
+KinkyDungeonClassModeDesc2,"以200魔力和Magical Sight開局，擅長詠唱咒語。"
+KinkyDungeonClassMode3,農民
+KinkyDungeonClassModeDesc3,"除了名字外一無所有。給想要來場挑戰的人。"
+KinkyDungeonClassMode4,學徒
+KinkyDungeonClassModeDesc4,"你是一個還沒完成正式「訓練」的法師。需要 Aroused 模式."
 
-KDRandomMode,"Spell Choice:"
+KDRandomMode,"選擇咒語:"
 
-KinkyDungeonRandomMode0,Choose Spells
-KinkyDungeonRandomMode1,Random Spells
-KinkyDungeonRandomModeDesc0,Break orbs. Get points. Buy spells. It's that simple.
-KinkyDungeonRandomModeDesc1,Break orbs and pray you get something good.
+KinkyDungeonRandomMode0,自選咒語
+KinkyDungeonRandomMode1,隨機咒語
+KinkyDungeonRandomModeDesc0,打破寶珠、獲得點數、購買咒語。就這麼簡單。
+KinkyDungeonRandomModeDesc1,打破寶珠，然後祈禱妳能得到些好東西。
 
-KDSaveMode,"Save Mode:"
+KDSaveMode,"存檔模式:"
 
-KinkyDungeonSaveMode0,Save Codes
+KinkyDungeonSaveMode0,存檔碼
 KinkyDungeonSaveMode1,Roguelike
-KinkyDungeonSaveModeDesc0,"Grants a save code every floor you can write down. Autosaves only on floor start."
-KinkyDungeonSaveModeDesc1,"No save codes, forced autosaves. You are in it to win it."
+KinkyDungeonSaveModeDesc0,"每層都能得到一份可以寫下的存檔碼。只在每層樓的剛開始自動存檔。"
+KinkyDungeonSaveModeDesc1,"沒有存檔碼，強制存檔。全心全力投入來克服萬難。"
 
-KDEasyMode,"Prison Strictness:"
+KDEasyMode,"監獄的難度:"
 
-KinkyDungeonEasyMode0,Normal
-KinkyDungeonEasyMode1,Easy
-KinkyDungeonEasyMode2,Strict
-KinkyDungeonEasyModeDesc0,"If you get captured, you might get rescued if you have good relations."
-KinkyDungeonEasyModeDesc1,"If you get captured, you will always get rescued and pay a fee."
-KinkyDungeonEasyModeDesc2,"If you get captured, you are totally on your own."
+KinkyDungeonEasyMode0,"普通"
+KinkyDungeonEasyMode1,"簡單"
+KinkyDungeonEasyMode2,"艱困"
+KinkyDungeonEasyModeDesc0,"如果妳被抓到了，也許會被關係良好的勢力救出。"
+KinkyDungeonEasyModeDesc1,"如果妳被抓到了，妳總是會被救出並付出一點費用。"
+KinkyDungeonEasyModeDesc2,"如果妳被抓到了，妳只能靠妳自己。"
 
-KinkyDungeonStartGame,Start Playing
+KinkyDungeonStartGame,開始遊戲
 KinkyDungeonStartGameDesc,"Lock your settings in, nice and tight."
 KinkyDungeonStartGameDescAdc,"Choose some perks to spice up your run."
 
-KinkyDungeonConsent,"This game engages in safe and consensual analytics."
-KinkyDungeonConsent2,"It sends data about spell choices, levels reached, etc, to help balance and improve the game."
-KinkyDungeonConsent3,"No personal data is sent or stored."
-KDOptIn,"Accept"
-KDOptOut,"Don't Track Me"
+KinkyDungeonConsent,"本遊戲會在安全且雙方同意下進行分析。"
+KinkyDungeonConsent2,"會傳送選擇的咒語、抵達的樓層等資訊，用以協助平衡或改進遊戲。"
+KinkyDungeonConsent3,"這不會儲存或發送個人資訊。"
+KDOptIn,"同意"
+KDOptOut,"不要追蹤"
 
 KinkyDungeonRemoveJailKey,"Your key to the stairs is taken away!"
 ItemPickupKeyring,"You found a keyring to the stairs! Now you just need to get there."
@@ -7693,11 +7694,11 @@ KinkyDungeonRemindJailNecromancerPickpocket,"I'll be confiscating that."
 KinkyDungeonRemindJailNecromancerLock,"Make sure that's nice and tight..."
 
 KinkyDungeonRemindJailPlayBratZombie0,"Scary..."
-KinkyDungeonRemindJailPlayBratZombie1,"Run... Away..."
+KinkyDungeonRemindJailPlayBratZombie1,"快... 逃..."
 KinkyDungeonRemindJailPlayBratZombie2,"*Giggles*"
-KinkyDungeonRemindJailPlaySubZombie0,"Play... with... me..."
+KinkyDungeonRemindJailPlaySubZombie0,"和... 我... 玩..."
 KinkyDungeonRemindJailPlaySubZombie1,"Please..."
-KinkyDungeonRemindJailPlaySubZombie2,"Command... Me..."
+KinkyDungeonRemindJailPlaySubZombie2,"命令... 我..."
 KinkyDungeonRemindJailPlayZombieFree,"Cute... Girl..."
 KinkyDungeonRemindJailPlayZombieStruggle,"Helpless..."
 KinkyDungeonRemindJailPlayZombieLeash,"Take..."
@@ -7758,7 +7759,7 @@ KDCategoryBoss,Unlockable
 
 KDWeaponConfiscated,You hand over your weapon reluctantly...
 
-dLeave,(Leave)
+dLeave,(離開)
 dPause,(...)
 
 rDisbelief,"(The SPEAKER frowns)|Don't lie to me."
@@ -9622,7 +9623,7 @@ dDollTerminal_Forced_Submit,(Wait it out)
 
 rLeyline,"(Mystic energies spring forth from the ground)|(Standing here will fully replenish your passive mana pool)|(One use only)"
 rLeylineUse,"(You step on the magical fissue and its energies absorb into you)|(Afterward, the ground crackles and fizzles, but no energy is left.)"
-dLeyline_Use,(Recharge your mana pool)
+dLeyline_Use,(補充妳的魔力池)
 
 KDUpcastFrom,"Upcast from SPELL"
 KDUpcastLevel,"Upcast Level LEVEL"

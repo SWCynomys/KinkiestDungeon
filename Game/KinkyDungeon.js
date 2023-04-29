@@ -4,10 +4,10 @@
 PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.NEAREST;
 
 /** These languages have characters which are rendered bigger than English. */
-let KDBigLanguages = ["CN", "KR", "JP"];
-let KDBigLanguages2 = ["Chinese", "Korean", "Japanese"];
+let KDBigLanguages = ["CN", "KR", "JP", "ZHTW"];
+let KDBigLanguages2 = ["Chinese", "Korean", "Japanese", "Traditional Chinese"];
 /** Language List */
-let KDLanguages = ["", "CN", "KR", "JP", "ES"];
+let KDLanguages = ["", "CN", "KR", "JP", "ES", "ZHTW"];
 
 let KinkyDungeonPlayerNeedsRefresh = false;
 let KinkyDungeonNextRefreshCheck = 0;

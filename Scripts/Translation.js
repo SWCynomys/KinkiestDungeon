@@ -80,7 +80,14 @@ var TranslationDictionary = [
 			"Screens/MiniGame/KinkyDungeon/Text_KinkyDungeon_ES.txt",
 		]
 	},
-
+	{
+		LanguageCode: "ZHTW",
+		LanguageName: "繁體中文",
+		EnglishName: "Traditional Chinese",
+		Files: [
+			"Screens/MiniGame/KinkyDungeon/Text_KinkyDungeon_ZHTW.csv",
+		]
+	},
 ];
 
 /**
